@@ -55,7 +55,7 @@ xxx{
 <p class="higlight">this is so fun to have a friend like you.</p>
 
 <h2>subheading 2 (h2)</h2>
-<p>poda myre.</p>
+<p>nice to meet you.</p>
 
 <div>this is supper cool <span id="mainpoint">id="mainpoint".</span></div>
 </body>
